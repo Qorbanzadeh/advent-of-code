@@ -2,6 +2,4 @@
 
 [Advent of Code][aod]
 
-> ⚠️ It's just for fun!
-
 [aod]: https://adventofcode.com/
